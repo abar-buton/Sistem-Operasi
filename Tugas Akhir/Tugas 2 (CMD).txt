@@ -1,0 +1,57 @@
+Nama 	: Sabarudin
+NIM 	: 2197200883
+
+Tugas Sistem Operasi (Tugas#2)
+
+Dalam penyusunan Database tidak terlepas dari CRUD yang berarti:
+1. Create 	(Membuat)	Berlaku Copy Con
+2. Read		(Membaca)	Berlaku 
+3. Update	(Mengedit)	Berlaku 
+4. Delete	(Menghapus)	Berlaku 
+
+Perintah Dasar CLI Windows
+
+TYPE "Nama File"	-> Perintah Untuk Membuka File
+	Contoh
+Type Sabarudin		-> Membuka file Sabarudin
+
+COPY CON "Nama File"	-> Perintah Untuk Membuat File
+	Contoh
+COPY CON Sabarudin	-> Membuat File Sabarudin
+
+DEL "Nama File"		-> Perintah Untuk Menghapus File
+	Contoh
+DEL Sabarudin		-> Menghapus File Sabarudin
+
+CALL "Nama File"	-> Perintah Untuk Mengeksekusi File
+	Contoh
+CALL "Sabarudin.bat"	-> Mengeksekusi File Sabarudin
+
+ECHO (Isi File) > "Nama File"	-> Perintah Untuk Membuat File Dan Mengisinya
+	Contoh
+ECHO Tugas 1 > Tugas-1.txt	-> Membuat File Dengan Nama Tugas-1.txt yang berisikan Tugas 1
+
+File Tugas#2.bat
+
+Langkah-Langkah
+- Buat File ekstensi .bat di cmd dengan perintah copy con Tugas#2.bat
+- Isikan File tersebut dengan perintah dibawah ini
+
+md C:SABARUDIN C:SABARUDIN\2197200883 C:SABARUDIN\2197200883\DATA C:SABARUDIN\2197200883\DATA\FOLDER-1 C:SABARUDIN\2197200883\DATA\FOLDER-2 C:SABARUDIN\2197200883\DATA\FOLDER-3
+CLS
+- Lalu tekan Ctrl+Z lalu Enter
+
+
+File Tugas Bonus.bat
+
+Langkah-Langkah
+- Buat File ekstensi .bat di cmd dengan perintah copy con "Tugas Bonus.bat"
+- Isikan File tersebut dengan perintah dibawah ini
+
+md C:SABARUDIN C:SABARUDIN\2197200883 C:SABARUDIN\2197200883\DATA C:SABARUDIN\2197200883\DATA\FOLDER-1 C:SABARUDIN\2197200883\DATA\FOLDER-2 C:SABARUDIN\2197200883\DATA\FOLDER-3
+echo Tugas-1 > C:SABARUDIN\2197200883\DATA\FOLDER-1\Tugas-1.txt
+echo Tugas-2 > C:SABARUDIN\2197200883\DATA\FOLDER-2\Tugas-2.txt
+echo Tugas-3 > C:SABARUDIN\2197200883\DATA\FOLDER-3\Tugas-3.txt
+CLS
+
+- Lalu tekan Ctrl+Z lalu Enter

@@ -1,0 +1,48 @@
+Nama 	: Sabarudin
+NIM 	: 2197200883
+
+Tugas Sistem Operasi
+
+Sistem Operasi hanya ada dua yaitu:
+1. CLI (Command Line Interface)
+2. GUI (Graphical User Interface)
+
+Perintah Dasar CLI Windows
+
+CD 		-> Perintah Untuk Memilih Direktory
+	Contoh
+CD Sabarudin 	-> Memilih Direktory Sabarudin
+CD ..		-> Memilih Direktory Diatas Direktory Sabarudin
+
+DIR		-> Perintha Untuk Melihat Isi Direktory
+	Contoh
+DIR Sabarudin 	-> Melihat Isi Direktory Sabarudin
+
+MKDIR		-> Perintah Untuk Membuat Direktory
+	Contoh
+MKDIR Sabarudin	-> Membuat Direktory Sabarudin
+
+RMDIR		-> Perintah Untuk Menghapus Direktory/Sub Direktory (Direktory Kosong)
+	Contoh
+RMDIR Sabarudin	-> Mengahapus Direktory Sabarudin
+
+RD /s		-> Perintah Untuk Menghapus Direktory Beserta Sub Direktory
+	Contoh
+RD /s Sabarudin	-> Menghapus Direktory Beserta Sub Direktory Sabarudin
+
+COLOR		-> Perintah Untuk Mengganti Warna Tampilan Command Prompt
+	Contoh
+COLOR F0 	-> Tampilan Command Prompt Berubah Background Putih dan Font Hitam
+
+RENAME		-> Perintah Untuk Mengganti Nama Direktory
+	Contoh
+RENAME Sabarudin Abar -> Mengganti Nama Sabarudin Menjadi Abar
+
+HELP		-> Perintah Untuk Menampilkan Perintah Yang Berlaku di Command Prompt
+
+/?		-> Perintah Untuk Menampilkan Cara Menggunakan Perintah di Command Prompt
+	Contoh
+RENAME /? 	-> Menampilkan Cara Menggunakan Perintah RENAME
+
+SHUTDOWN /s	-> Perintah Untuk Mematikan Komputer
+	
